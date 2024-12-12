@@ -1,0 +1,1 @@
+export { default } from "file:///Users/milanherbe/Desktop/testreact/portfolio-mhdev/node_modules/@nuxt/vite-builder/dist/runtime/vite-node.mjs"
