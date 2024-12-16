@@ -23,5 +23,10 @@
 
   </div>
 </template>
+<style>
+*{
+    overflow: hidden;
+}
+</style>
 
 <script setup lang="ts"></script>

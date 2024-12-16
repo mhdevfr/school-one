@@ -8,7 +8,7 @@
           <div class="relative w-full lg:h-full overflow-hidden rounded-md">
             <img
               src="../assets/images/kaizenSite.png"
-              class="w-full h-[300px] object-cover transition-shadow duration-300 cursor-pointer hover:shadow-sm hover:shadow-gray-400"
+              class="w-full h-[450px] object-cover transition-shadow duration-300 cursor-pointer hover:shadow-sm hover:shadow-gray-400"
             />
             <div
               class="absolute inset-0 bg-black bg-opacity-50 flex items-center justify-center text-white text-3xl font-bold opacity-0 transition-opacity duration-300 hover:opacity-100"
@@ -52,7 +52,7 @@
           <div class="relative w-full lg:h-full overflow-hidden rounded-md">
             <img
               src="../assets/images/photolioSite.png"
-              class="w-full h-[300px] object-cover transition-shadow duration-300 cursor-pointer hover:shadow-sm hover:shadow-gray-400"
+              class="w-full h-[450px] object-cover transition-shadow duration-300 cursor-pointer hover:shadow-sm hover:shadow-gray-400"
             />
             <div
               class="absolute inset-0 bg-black bg-opacity-50 flex items-center justify-center text-white text-3xl font-bold opacity-0 transition-opacity duration-300 hover:opacity-100"
@@ -95,7 +95,7 @@
           <a href="/">
           <img
             src="../assets/images/portfolioSite.png"
-            class="w-full h-[300px] object-cover transition-shadow duration-300 cursor-pointer hover:shadow-sm hover:shadow-gray-400"
+            class="w-full h-[450px] object-cover transition-shadow duration-300 cursor-pointer hover:shadow-sm hover:shadow-gray-400"
           />
           <div
             class="absolute inset-0 bg-black bg-opacity-50 flex items-center justify-center text-white text-3xl font-bold opacity-0 transition-opacity duration-300 hover:opacity-100"
@@ -135,7 +135,7 @@
         <div class="relative w-full lg:h-full overflow-hidden rounded-md">
           <img
             src="../assets/images/ecommerce.png"
-            class="w-full h-[300px] object-cover transition-shadow duration-300 cursor-pointer hover:shadow-sm hover:shadow-gray-400"
+            class="w-full h-[450px] object-cover transition-shadow duration-300 cursor-pointer hover:shadow-sm hover:shadow-gray-400"
           />
           <div
             class="absolute inset-0 bg-black bg-opacity-50 flex items-center justify-center text-white text-3xl font-bold opacity-0 transition-opacity duration-300 hover:opacity-100"
@@ -177,7 +177,7 @@
           <div class="relative w-full lg:h-full overflow-hidden rounded-md">
             <img
               src="../assets/images/ap1.png"
-              class="w-full h-[300px] object-cover transition-shadow duration-300 cursor-pointer hover:shadow-sm hover:shadow-gray-400"
+              class="w-full h-[450px] object-cover transition-shadow duration-300 cursor-pointer hover:shadow-sm hover:shadow-gray-400"
             />
             <div
               class="absolute inset-0 bg-black bg-opacity-50 flex items-center justify-center text-white text-3xl font-bold opacity-0 transition-opacity duration-300 hover:opacity-100"
@@ -217,7 +217,7 @@
 
           <img
             src="../assets/images/superhero.png"
-            class="w-full  h-[300px] object-cover transition-shadow duration-300 cursor-pointer hover:shadow-sm hover:shadow-gray-400"
+            class="w-full  h-[450px] object-cover transition-shadow duration-300 cursor-pointer hover:shadow-sm hover:shadow-gray-400"
           />
           <div
             class="absolute inset-0 bg-black bg-opacity-50 flex items-center justify-center text-white text-3xl font-bold opacity-0 transition-opacity duration-300 hover:opacity-100"
@@ -258,7 +258,7 @@
         <div class="relative w-full lg:h-full overflow-hidden rounded-md">
           <img
             src="../assets/images/sciss.png"
-            class="w-full h-[300px] object-cover transition-shadow duration-300 cursor-pointer hover:shadow-sm hover:shadow-gray-400"
+            class="w-full h-[450px] object-cover transition-shadow duration-300 cursor-pointer hover:shadow-sm hover:shadow-gray-400"
           />
           <div
             class="absolute inset-0 bg-black bg-opacity-50 flex items-center justify-center text-white text-3xl font-bold opacity-0 transition-opacity duration-300 hover:opacity-100"
@@ -295,7 +295,7 @@
         <div class="relative w-full h-full overflow-hidden rounded-md">
           <img
             src="../assets/images/hijobs.png"
-            class="w-full h-[300px] object-cover transition-shadow duration-300 cursor-pointer hover:shadow-sm hover:shadow-gray-400"
+            class="w-full h-[450px] object-cover transition-shadow duration-300 cursor-pointer hover:shadow-sm hover:shadow-gray-400"
           />
           <div
             class="absolute inset-0 bg-black bg-opacity-50 flex items-center justify-center text-white text-3xl font-bold opacity-0 transition-opacity duration-300 hover:opacity-100"
