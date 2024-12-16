@@ -3,7 +3,7 @@
     <div
       class="lg:w-5/6 w-11/12 h-full lg:grid lg:grid-cols-2 bg-transparent border-gray-50 rounded-xl flex flex-col justify-around"
     >
-      <div class="w-full h-full flex flex-col lg:p-4">
+      <div class="w-full h-full  flex flex-col lg:p-4" v-motion-fade-visible>
         <a href="https://projet-kaizen.vercel.app/">
           <div class="relative w-full lg:h-full overflow-hidden rounded-md">
             <img
@@ -47,7 +47,7 @@
         </div>
       </div>
 
-      <div class="w-full h-full flex flex-col p-4">
+      <div class="w-full h-full flex flex-col p-4" v-motion-fade-visible>
         <a href="https://photolio-dev-beta.vercel.app/">
           <div class="relative w-full lg:h-full overflow-hidden rounded-md">
             <img
@@ -90,7 +90,7 @@
           </NuxtLink>
         </div>
       </div>
-      <div class="w-full h-full flex flex-col p-4">
+      <div class="w-full h-full flex flex-col p-4" v-motion-fade-visible>
         <div class="relative w-full lg:h-full overflow-hidden rounded-md">
           <a href="/">
           <img
@@ -131,7 +131,7 @@
           </NuxtLink>
         </div>
       </div>
-      <div class="w-full h-full flex flex-col lg:p-4">
+      <div class="w-full h-full flex flex-col lg:p-4" v-motion-fade-visible>
         <div class="relative w-full lg:h-full overflow-hidden rounded-md">
           <img
             src="../assets/images/ecommerce.png"
@@ -172,7 +172,7 @@
           </NuxtLink>
         </div>
       </div>
-      <div class="w-full h-full flex flex-col lg:p-4">
+      <div class="w-full h-full flex flex-col lg:p-4" v-motion-fade-visible>
         <a href="https://milancorp.framer.website/">
           <div class="relative w-full lg:h-full overflow-hidden rounded-md">
             <img
@@ -211,7 +211,7 @@
           </NuxtLink>
         </div>
       </div>
-      <div class="w-full h-full flex flex-col lg:p-4">
+      <div class="w-full h-full flex flex-col lg:p-4" v-motion-fade-visible>
         <div class="relative w-full lg:h-full overflow-hidden rounded-md">
           <a href="https://afterend.site/portefolio/personnage/index.php">
 
@@ -254,7 +254,7 @@
           </NuxtLink>
         </div>
       </div>
-      <div class="w-full h-full flex flex-col lg:p-4">
+      <div class="w-full h-full flex flex-col lg:p-4" v-motion-fade-visible>
         <div class="relative w-full lg:h-full overflow-hidden rounded-md">
           <img
             src="../assets/images/sciss.png"
@@ -291,7 +291,7 @@
           </NuxtLink>
         </div>
       </div>
-      <div class="w-full h-full flex flex-col lg:p-4">
+      <div class="w-full h-full flex flex-col lg:p-4" v-motion-fade-visible>
         <div class="relative w-full h-full overflow-hidden rounded-md">
           <img
             src="../assets/images/hijobs.png"

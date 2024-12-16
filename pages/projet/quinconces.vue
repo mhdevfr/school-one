@@ -1,10 +1,12 @@
 <template>
+
   <section
-    class="min-h-screen mt-32 flex flex-col items-center h-full  justify-center bg-gray-950 p-4"
+    class="min-h-screen  flex flex-col items-center h-full  justify-center bg-gray-950 p-4"
   >
   <Navbar class="mt-8  h-16 "></Navbar>
 
-    <div class="max-w-4xl w-2/3 bg-gray-50 rounded-lg shadow-lg">
+
+    <div class="max-w-4xl w-2/3 mt-32 bg-gray-50 rounded-lg shadow-lg">
       <img src="@/assets/images/ap1.png" alt="Projet AP" class="w-full rounded-t-lg p-0" />
 <div class="p-6">
       <h2 class="text-3xl font-semibold mb-4 text-black">

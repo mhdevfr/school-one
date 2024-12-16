@@ -1,12 +1,13 @@
 <template>
     <div class="h-full w-full flex items-center bg-gray-950 text-400 justify-center">
         <div class="w-5/6 flex items-center justify-center">
-            <Navbar></Navbar>
+            <Navbar class="mt-8"></Navbar>
                 <div class="h-full bg-gray-950 mb-32 flex justify-center items-center">
                   <div class="w-3/4 h-3/4 mt-32">
                     <div class="flex h-full w-full items-center text-slate-950 justify-center">
                       <div
                         class="grid h-full w-full gap-4 p-2 grid-cols-4 text-slate-950 grid-rows-2 rounded-lg shadow-md"
+                        v-motion-fade-visible
                       >
                         <div
                           class="col-span-2 row-span-1 bg-gray-100 rounded-lg shadow-md flex items-start justify-start"
@@ -35,6 +36,7 @@
               
                         <div
                           class="col-span-2 row-span-1 bg-gray-100 rounded-lg shadow-md flex items-center justify-center overflow-hidden"
+                          v-motion-fade-visible
                         >
                           <div class="w-full h-full relative">
                             <h1
@@ -59,6 +61,7 @@
               
                         <div
                           class="col-span-1 row-span-4 bg-gray-100 rounded-lg shadow-md flex items-start justify-start"
+                          v-motion-fade-visible
                         >
                           <div class="p-4 w-full text-slate-950">
                             <h1 class="brico-800 text-xl">Technologies & Outil :</h1>
@@ -93,6 +96,7 @@
               
                         <div
                           class="col-span-3 row-span-4 bg-gray-100 rounded-lg shadow-md flex items-start justify-start overflow-hidden"
+                          v-motion-fade-visible
                         >
                           <div class="flex justify-between items-center w-full h-full">
                             <div class="p-4 h-full flex flex-col items-start justify-around">

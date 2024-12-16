@@ -1,6 +1,7 @@
 <template>
   <div
     class="w-full h-screen flex bg-gray-950 text-gray-50 font-400 flex-col justify-center items-center"
+    v-motion-fade-visible
   >
     <Navbar class="mt-8  h-16"></Navbar>
     <div class="w-3/5  flex h-full flex-col justify-center">
