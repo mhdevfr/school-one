@@ -10,7 +10,7 @@
             <HeroTexte class="flex justify-around items-center"></HeroTexte>
             <Globe class="lg:z-[200]  ml-24 lg:relative "></Globe>
         </div>
-        <div class="h-full w-screen my-16">
+        <div class="h-full w-screen my-16" id="projects">
             <Projects></Projects>
         </div>
         <div class="w-full items-center h-screen justify-center flex">

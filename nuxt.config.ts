@@ -11,9 +11,7 @@ export default defineNuxtConfig({
     '@formkit/auto-animate/nuxt',
   ],
 
-  supabase: {
-    redirect: false
-  },
+
 
   compatibilityDate: '2024-12-08',
 })

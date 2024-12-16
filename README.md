@@ -4,6 +4,10 @@ To do list game to gain experiences to have a better profile !
 =======
 # Nuxt 3 Minimal Starter
 
+Password of portfolio :
+Cacestdumdpsecu123!
+admin-education@education.fr
+ 
 This project is designed and developped by Enzo Eliazord and Myself
 
 It helps you to make your tasks of the day, fun and fast, we daily used it
